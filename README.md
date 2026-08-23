@@ -1,0 +1,1 @@
+Step-by-step instructions on cloning the repo, running uv sync, setting APE_ENVIRONMENT, and invoking python -m environment_probe.

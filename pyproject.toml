@@ -1,0 +1,17 @@
+[project]
+name = "environment-probe"
+version = "0.1.0"
+description = "Diagnostic probe to verify runtime configuration and isolation."
+readme = "README.md"
+authors = [{ name = "Martins Obaseki", email = "yuwa619.email@gmail.com" }]
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = [
+    "mypy>=1.10.0",
+]
