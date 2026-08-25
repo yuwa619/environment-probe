@@ -10,7 +10,7 @@ From a clean working directory, clone the repository and reproduce the isolated 
 
 ```bash
 # Clone the repository
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/yuwa619/environment-probe
 cd environment-probe
 
 # Reproduce the exact isolated environment from the lockfile
